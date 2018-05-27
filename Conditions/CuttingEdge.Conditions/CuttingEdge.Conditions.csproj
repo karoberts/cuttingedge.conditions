@@ -4,9 +4,9 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Version>1.2.0</Version>
     <Company>LoanDepot</Company>
-    <Authors>CuttingEdge.Conditions (LD)</Authors>
+    <Authors>CuttingEdge.Conditions (NTERSOL)</Authors>
     <SignAssembly>true</SignAssembly>
-    <AssemblyOriginatorKeyFile>LDTS.snk</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>NTERSOL.snk</AssemblyOriginatorKeyFile>
     <Title>CuttingEdge.Conditions.NetStandard</Title>
     <AssemblyName>CuttingEdge.Conditions.NetStandard</AssemblyName>
   </PropertyGroup>
